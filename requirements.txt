@@ -1,0 +1,6 @@
+hilbertcurve
+matplotlib
+torch
+torchvision
+sklearn
+dill
