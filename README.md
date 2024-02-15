@@ -4,7 +4,7 @@ ResMPS (short for 'Residual Matrix Product State') is a PyTorch based�
 
 The idea of ResMPS is inpired by residual networks, and outperforms the state-of-the-art tensor network models in terms of efficiency, stability, and expression power.
 
-For further details, please see our paper [arxiv:2012.11841](https://arxiv.org/abs/2012.11841v2).
+For further details, please see our paper [SciPost Physics 14.6 (2023): 142](https://scipost.org/SciPostPhys.14.6.142).
 
 ## Installation
 1. Install dependencies.
